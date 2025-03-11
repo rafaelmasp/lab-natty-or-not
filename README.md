@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Utilizando IA Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 Utilizando IA para geração de texto de forma infantil 
